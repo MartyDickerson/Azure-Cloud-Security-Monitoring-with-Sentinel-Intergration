@@ -71,4 +71,4 @@ Next we are going upload geographical data so that sentinel will create a visual
 
 <h2>Project Topology</h2>
 
-![image alt](https://github.com/MichaelBerry-CyberPro/Azure-Cloud-Security-Monitoring-with-Sentinel-Intergration/blob/main/VM%20Topology.png?raw=true)
+![image alt](https://github.com/MartyDickerson/Azure-Cloud-Security-Monitoring-with-Sentinel-Intergration/blob/main/images/HomeLab%20Build.png)
