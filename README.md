@@ -1,4 +1,4 @@
-# Azure-Cloud-Security-Monitoring-with-Sentinel-Intergration
+# Azure-Cloud-Security-Monitoring-with-Sentinel-Integration
 Soc Analyst Project 
 
 **Objectives**
