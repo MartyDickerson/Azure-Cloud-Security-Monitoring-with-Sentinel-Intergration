@@ -1,5 +1,5 @@
 # Azure-Cloud-Security-Monitoring-with-Sentinel-Integration
-Soc Analyst Project 
+Soc Analyst Project  
 
 **Objectives**
 - Deploy a public-facing VM in Azure
